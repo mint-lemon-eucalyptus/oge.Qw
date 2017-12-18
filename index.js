@@ -1,4 +1,4 @@
-var Qwm = require('qw');
+var Qwm = require('qw-logger');
 
 function Qw($config) {
     Qwm.setOpts('supressInitMessages', true);

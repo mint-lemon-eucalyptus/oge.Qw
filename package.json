@@ -1,5 +1,5 @@
 {
-    "name": "Qw-wrapper",
+    "name": "Qw",
     "version": "0.0.6",
     "description": "logging module for OGE",
     "main": "index.js",
@@ -7,7 +7,7 @@
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "dependencies": {
-        "qw": "git+https://mint-lemon-eucalyptus@github.com/mint-lemon-eucalyptus/qw.git"
+        "qw-logger": "git+https://mint-lemon-eucalyptus@github.com/mint-lemon-eucalyptus/qw.git"
     },
     "repository": {
         "type": "git",
