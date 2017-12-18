@@ -1,7 +1,7 @@
 {
-    "name": "Qw",
-    "version": "0.0.5",
-    "description": "lgging module for OGE",
+    "name": "Qw-wrapper",
+    "version": "0.0.6",
+    "description": "logging module for OGE",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
